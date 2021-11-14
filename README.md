@@ -1,1 +1,1 @@
-# exercise-responsive-portfolio
+# demo-responsive-portfolio
